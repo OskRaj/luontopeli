@@ -1,4 +1,4 @@
-git add# Luontopeli
+Luontopeli
 
 Tämä on Android-sovellus, joka on toteutettu kouluharjoitustyönä. Sovelluksen avulla käyttäjä voi seurata kävelylenkkejään, mitata askelia ja matkaa sekä tunnistaa luontokohteita (kuten kasveja ja puita) kameran avulla.
 
