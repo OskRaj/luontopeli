@@ -1,0 +1,26 @@
+# IDE:n tiedostot
+*.iml
+.idea/
+*.ipr
+*.iws
+.gradle/
+
+# Build-tiedostot
+build/
+app/build/
+
+# Paikalliset konfiguraatiot ja salaisuudet (TÄRKEÄÄ!)
+local.properties
+google-services.json
+*.jks
+*.keystore
+
+# Käyttöjärjestelmän tiedostot
+.DS_Store
+Thumbs.db
+
+# Logit ja väliaikaistiedostot
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
